@@ -25,5 +25,3 @@ function sayHiToGrandma(string) {
  else return ('I love you, too.')
 }
 
-var uppercase = 'HELLO'
-var lowercase = 'hello'
